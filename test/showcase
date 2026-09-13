@@ -9,7 +9,7 @@ whoami@kalilinux:~/shenwin$ python3 shenwin.py
 ║   ███████║██║  ██║███████╗██║ ╚████║╚███╔███╔╝██║██║ ╚████║ ║
 ║   ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝ ║
 ║                                                              ║
-║   v0.01  |  OSINT Username & Variation Hunter  |  by Miraç  ║
+║   v0.01  |  OSINT Username & Variation Hunter  |  by LatenT  ║
 ╚══════════════════════════════════════════════════════════════╝
 
 
@@ -33,9 +33,9 @@ SEÇENEKLER:
   --no-color     # Renksiz çıktı
 
 ÖRNEKLER:
-  $ python3 shenwin.py -w mirac
-  $ python3 shenwin.py -ww mirac --output sonuc.txt
+  $ python3 shenwin.py -w LatenT
+  $ python3 shenwin.py -ww LatenT --output sonuc.txt
   $ python3 shenwin.py -r elliot --verbose
-  $ python3 shenwin.py -s mirac github
+  $ python3 shenwin.py -s LatenT github
 
 whoami@kalilinux:~/shenwin$ 
