@@ -41,7 +41,7 @@ BANNER = f"""
 ║  {W} ███████║██║  ██║███████╗██║ ╚████║╚███╔███╔╝██║██║ ╚████║ {C}║
 ║  {W} ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝ {C}║
 ║                                                              ║
-║  {DG} v0.01  |  OSINT Username & Variation Hunter  |  by Miraç  {C}║
+║  {DG} v0.01  |  OSINT Username & Variation Hunter  |  by LatenT  {C}║
 ╚══════════════════════════════════════════════════════════════╝{RESET}
 """
 
@@ -676,10 +676,10 @@ def print_help():
     print(f"  {C}--output FILE  {DG}# Sonuçları .txt olarak kaydet{RESET}")
     print(f"  {C}--no-color     {DG}# Renksiz çıktı{RESET}")
     print(f"\n{W}ÖRNEKLER:{RESET}")
-    print(f"  {DG}$ python3 shenwin.py -w mirac{RESET}")
-    print(f"  {DG}$ python3 shenwin.py -ww mirac --output sonuc.txt{RESET}")
+    print(f"  {DG}$ python3 shenwin.py -w LatenT{RESET}")
+    print(f"  {DG}$ python3 shenwin.py -ww LatenT --output sonuc.txt{RESET}")
     print(f"  {DG}$ python3 shenwin.py -r elliot --verbose{RESET}")
-    print(f"  {DG}$ python3 shenwin.py -s mirac github{RESET}\n")
+    print(f"  {DG}$ python3 shenwin.py -s LatenT github{RESET}\n")
 
 
 # ─── MAIN ─────────────────────────────────────────────────────────────────────
