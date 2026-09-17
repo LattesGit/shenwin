@@ -8,7 +8,7 @@ version = "1.0.0"
 description = "Python OSINT tool for username enumeration across 500+ platforms"
 readme = "README.md"
 license = {text = "MIT"}
-authors = [{name = "LaxenT", email = "your@email.com"}]
+authors = [{name = "LaxenT", email = "[REDACTED]"}]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Information Technology",
