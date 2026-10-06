@@ -1,4 +1,4 @@
-# 🐰 SHENWIN — OSINT Username Enumeration Tool
+# 🐰 SHENWIN OSINT Username Enumeration Tool
 🐰 Python OSINT tool for username enumeration across 500+ platforms with variation engine (sherlock + winget)
 
 > Fast username enumeration across 400+ platforms. Pure Python, zero dependencies.
